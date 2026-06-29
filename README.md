@@ -6,7 +6,7 @@
 
 **Lớp:** 12523T.1
 
----
+
 
 # Giới thiệu đề tài
 
@@ -32,7 +32,7 @@ Xây dựng ứng dụng Android giúp sinh viên:
 
 Đồng thời cung cấp phân hệ **Admin** giúp quản lý món ăn, danh mục và đơn hàng ngay trên ứng dụng bằng cơ sở dữ liệu SQLite.
 
----
+
 
 # Thiết kế Cơ sở dữ liệu (Database)
 
@@ -53,7 +53,7 @@ Các trường:
 * phone
 * role
 
----
+
 
 ### DanhMuc
 
@@ -64,7 +64,7 @@ Các trường:
 * id
 * tenDanhMuc
 
----
+
 
 ### MonAn
 
@@ -80,7 +80,7 @@ Các trường:
 * soLuong
 * idDanhMuc
 
----
+
 
 ### GioHang
 
@@ -93,7 +93,7 @@ Các trường:
 * soLuong
 * thanhTien
 
----
+
 
 ### DonHang
 
@@ -107,7 +107,7 @@ Các trường:
 * tongTien
 * trangThai
 
----
+
 
 ### ChiTietDonHang
 
@@ -121,7 +121,7 @@ Các trường:
 * soLuong
 * donGia
 
----
+
 
 # Luồng chức năng (Use Cases)
 
@@ -172,7 +172,7 @@ Xem các đơn hàng đã đặt.
 
 Thoát khỏi hệ thống.
 
----
+
 
 ## Quản trị viên (Admin)
 
@@ -204,7 +204,6 @@ Thoát khỏi hệ thống.
 * Xem danh sách người dùng
 * Đổi mật khẩu
 
----
 
 # Công nghệ & Kiến trúc sử dụng
 
@@ -241,7 +240,6 @@ SQLite
 * Intent
 * SharedPreferences
 
----
 
 # Kết quả đạt được
 
@@ -252,7 +250,7 @@ SQLite
 * Chức năng CRUD hoạt động chính xác.
 * Giỏ hàng và đặt hàng hoạt động tốt.
 
----
+
 
 # Hạn chế
 
@@ -260,7 +258,7 @@ SQLite
 * Chưa hỗ trợ thanh toán trực tuyến.
 * Chưa đồng bộ dữ liệu giữa nhiều thiết bị.
 
----
+
 
 # Hướng phát triển
 
@@ -271,7 +269,7 @@ SQLite
 * Yêu thích món ăn.
 * Theo dõi trạng thái đơn hàng theo thời gian thực.
 
----
+
 
 # Hướng dẫn chạy dự án
 
@@ -282,7 +280,7 @@ SQLite
 * Java JDK
 * Máy ảo Android hoặc thiết bị thật
 
----
+
 
 ## Cách chạy
 
@@ -299,7 +297,7 @@ Sau đó:
 * Chờ Gradle đồng bộ.
 * Nhấn **Run App**.
 
----
+
 
 ## Tài khoản mặc định
 
@@ -353,7 +351,10 @@ Có thể đăng ký tài khoản mới ngay trên ứng dụng.
 # Tác giả
 
 **Họ và tên:** Lưu Thị Thanh Mai & Đỗ Thị Hằng Nga
+
 **Lớp:** 12523T.1
+
 **Đề tài:** Xây dựng ứng dụng Mobile Đặt Đồ Ăn Căng Tin Trường Học
+
 **Môn học:** Lập trình Mobile cơ bản
 
