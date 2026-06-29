@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Theme colors (Green palette) -->
+    <color name="primary">#00B14F</color>
+    <color name="primary_dark">#008C3E</color>
+    <color name="accent">#FF9800</color>
+    
+    <!-- Dark Mode specific -->
+    <color name="background_color">#121212</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="card_bg">#1E1E1E</color>
+    <color name="divider">#333333</color>
+    <color name="success">#81C784</color>
+    <color name="input_bg">#2C2C2C</color>
+    <color name="icon_tint">#CCCCCC</color>
+</resources>
